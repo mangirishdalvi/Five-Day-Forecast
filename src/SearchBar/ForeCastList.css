@@ -1,0 +1,43 @@
+.forecast-list
+{
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
+
+.forecast-table
+{
+	table-layout: fixed;
+	background-color: white;
+	border-spacing: 0px;
+	width: 730px;
+}
+
+.forecast-headers
+{
+	font-size: 12px;
+	border:0;
+	background-color: rgb(238,246,251);
+}
+
+.row
+{
+	border: 1px solid #999;	
+}
+
+.col0{
+	width: 15%;
+	border-right: 3px solid #999;
+}
+
+.col1{
+	width: 45%;
+}
+
+.col2{
+	width: 20%;
+}
+
+.col3{
+	width: 20%;
+}

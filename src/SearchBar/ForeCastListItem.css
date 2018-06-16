@@ -1,0 +1,51 @@
+.listItem{
+	/*opacity: 0.4;*/
+	background-color: red;
+	border: 1px;
+	margin: 5px;
+	padding: 5px;
+	width: 100px;
+	height: 100px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.icon
+{
+	width: 50px;
+	margin: -10px;
+}
+
+.table-cell
+{
+	border-bottom: 1px solid #999;
+	height: 50px;
+}
+
+.forecast-summary{
+	/*display: inline-block;*/
+	padding-left: 5px;
+	text-align: left;
+}
+
+.forecast-day{
+	/*width: 150px;	*/
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px 5px;
+}
+
+.cell1
+{
+	border-right: 3px solid #999;
+}
+
+.today{
+	display: flex;
+	flex-direction: column;
+	font-family: Helvetica;
+	font-size: .85rem;
+}

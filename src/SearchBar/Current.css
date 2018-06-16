@@ -1,0 +1,94 @@
+.current{
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 324px;
+}
+
+.current-forecast{
+	width:60%;
+	height: 100%;
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+}
+
+.current-info{
+	width: 40%;
+	height: 100%;
+	background-color: #f7f6f5;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+#wind-image{
+	height: 80px;
+	width: 80px;
+	font-size: 80px;
+}
+
+.current-icon{
+	font-size: 100px;
+	text-shadow: 0px 0px 3px #000;
+	color: #999;
+}
+
+.current-temp
+{
+	display: flex;
+	flex-direction: column;
+	font-family: roboto, sans-serif;
+}
+
+.current-temp span:nth-child(odd)
+{
+	color: #1f384d;
+}
+
+#current-temp{
+	font-size: 45px;
+}
+
+#realfeel{
+	color: #999;
+}
+
+.wind-info{
+	margin-top: 20px;
+	display: flex;
+	flex-direction: column;
+	height: 35%;
+}
+
+.misc-info{
+	margin-top: 15px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	align-items: flex-start;
+	padding:5px 20px;
+	height: 65%;
+	color: #999;
+}
+
+#wind-summary,#wind-speed{
+	color: #1f384d;
+}
+
+#current-time{
+	display: flex;
+	flex-direction: column;
+	font-size: 30px;
+	color: #1f384d;
+	font-family: Roboto;
+	font-weight: bold;
+}
+
+#time{
+	font-size: 20px;
+	font-weight: normal;
+	color: #999;
+}

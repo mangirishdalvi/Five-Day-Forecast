@@ -1,0 +1,102 @@
+.App {
+  text-align: center;
+  margin:auto;
+  /*background-color: red;*/
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.main{
+  width: 730px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+/* .main #loader{
+  width: inherit;
+  height: inherit;
+  animation: infinite-spinning 1s infinite;
+} */
+
+#spinner{
+  /* height: 32px;
+  width: 32px; */
+  font-size: 32px;
+  animation: infinite-spinning 1s infinite;
+}
+
+#load:not(:empty) + #loader{
+  display: none;
+}
+
+
+
+#root{
+  margin: 0; padding: 0; height: 100%; width: 100%; padding: 1px;
+  display: flex;
+}
+
+html, body { margin: 0; padding: 0; height: 100%; width: 100%; background-color: rgb(210,211,211);  }
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.select-button{
+  width: 50%;
+  height: 35px;
+  border: 0px;
+  font-size: 16px;
+  background-color: #1f3f4d;
+  border-bottom: 5px solid #1f3f4d;
+  color: #999;
+}
+
+.select-button:focus{
+  outline: 0px;
+}
+
+.select-button:hover{
+  cursor: pointer;
+  background-color: rgb(68, 75, 80);
+  border-bottom: 5px solid rgb(68, 75, 80);
+}
+
+.select-button.current-menu
+{
+  border-bottom: 5px solid red;
+  color: white;
+}
+
+.select-button.current-menu:hover
+{
+  border-bottom: 5px solid red;
+  background-color: rgb(68, 75, 80);
+  color: white;
+}
+
+.select-button:first-child{
+  border-right: 1px solid rgb(68, 75, 80);
+}
+
+.current{
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 324px;
+}
+
+@keyframes infinite-spinning {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
