@@ -1,30 +1,11 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './ForeCastListItem.css';
-import {getDate} from '../utils/utils';
+import {getDate,iconMap as iMap} from '../utils/utils';
 
+function ForecastListItem(props){
 
-class ForecastListItem extends Component
-{		
-	static iconMap = function()
-	{
-		let res={}
-		res['clear-day']='wi wi-day-sunny';
-		res['clear-night']='wi wi-night-clear';
-		res['rain']='wi wi-rain';
-		res['snow']='wi wi-snow';
-		res['sleet']='wi wi-sleet';
-		res['wind']='wi wi-windy';
-		res['fog']='wi wi-fog';
-		res['cloudy']='wi wi-cloudy';
-		res['partly-cloudy-day']='wi wi-day-cloudy';
-		res["partly-cloudy-night"]='wi wi-night-alt-cloudy';
-		return res;
-	}
-
-	render()
-	{
-		let {result} = this.props;
-		let iconMap=ForecastListItem.iconMap();
+	let {result} = props;
+		let iconMap=ForecastListItem.iMap();
 
 		return (
 				<tr>
@@ -42,7 +23,7 @@ class ForecastListItem extends Component
 					<td className="table-cell">{`${Math.round(result.precipProbability*100)}%`}</td>
 				</tr>
 			);
-	}
+
 }
 
 export default ForecastListItem;

@@ -4,20 +4,16 @@ import Autocomplete from 'react-google-autocomplete';
 import Proxy from './weatherproxy';
 // import {getDay, FtoC,getTimezone} from '../utils/utils';
 
-
-class UnitSelector extends Component
+function UnitSelector(props)
 {
-	render()
-	{
-		let cClass=(this.props.unit==='C')?'selected':'';
-		let fClass=(this.props.unit==='F')?'selected':'';
+	let cClass=(props.unit==='C')?'selected':'';
+	let fClass=(props.unit==='F')?'selected':'';
 		return (								
 			<div className="unit-selector">
-				<button name="C" className={cClass+' unit-button height-set'} onClick={this.props.changeUnit}>&deg;C</button>
-				<button name="F" className={fClass+' unit-button height-set'} onClick={this.props.changeUnit}>&deg;F</button>
+				<button name="C" className={cClass+' unit-button height-set'} onClick={props.changeUnit}>&deg;C</button>
+				<button name="F" className={fClass+' unit-button height-set'} onClick={props.changeUnit}>&deg;F</button>
 			</div>
 		);
-	}
 }
 
 class SearchBar extends Component
@@ -43,14 +39,14 @@ class SearchBar extends Component
     	e.preventDefault();
     	if(this.state.selected)
     	{
-			this.setState({loading:true});
+			this.props.functions.setLoading(true);
     		const lat=this.state.place.geometry.location.lat();
 			const lng=this.state.place.geometry.location.lng();
     		Proxy.Weather(lat,lng).
     		then((values)=>{
 				values.place=this.state.place.formatted_address;
 				// console.log(this.state.place);
-    			this.props.searchBarClick(values);
+    			this.props.functions.searchBarClick(values);
     		});
     	}
     }
@@ -64,7 +60,7 @@ class SearchBar extends Component
 				<Autocomplete name='search' className='search height-set' onChange={this.handleChange} onPlaceSelected={this.onSelect} />
 				<button type="submit" id="submit-button" name="button" className="height-set"><span className="fas fa-search"></span></button>
 			</form>
-				<UnitSelector unit={this.props.unit} changeUnit={this.props.changeUnit} />
+				<UnitSelector unit={this.props.unit} changeUnit={this.props.functions.changeUnit} />
 			</div>
 		);
 	}

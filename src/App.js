@@ -86,6 +86,10 @@ class App extends Component {
 		this.setState({forecast:forecast,loading:false,errors:{}});
 	}
 
+	setLoading = (load)=>{
+		this.setState({loading:load});
+	}
+
 	changeSelection = (event) =>{
 		this.setState({selected: event.target.name});
 	}
@@ -98,10 +102,17 @@ class App extends Component {
 				):(
 					<Current place={this.state.forecast.place} load={this.state.loading} forecast={this.state.forecast.currently} id="container" unit={this.state.unit}/>
 				);
+
+		let functions={
+			searchBarClick:this.searchBarClick,
+			setLoading:this.setLoading,
+			changeUnit:this.changeUnit
+		};
+
 		return (
 			<div className="App">
 				<div className="main">
-					<SearchBar unit={this.state.unit} searchBarClick={this.searchBarClick} changeUnit={this.changeUnit}/>
+					<SearchBar unit={this.state.unit} functions={functions} />
 					<Menu forecast={this.state.forecast} selected={this.state.selected} changeSelection={this.changeSelection} />
 					<div id="load">{container}</div>
 					<div id="loader" className="current">
