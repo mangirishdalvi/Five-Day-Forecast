@@ -34,8 +34,18 @@ class Menu extends Component{
 
 		return (								
 			<div className="menu">
-				<button name="now" className={currentClasses.join(' ')} onClick={this.props.changeSelection}>Now</button>
-				<button name="daily" className={dailyClasses.join(' ')} onClick={this.props.changeSelection}>Daily</button>
+				<button 
+					name="now"
+					className={currentClasses.join(' ')} 
+					onClick={this.props.changeSelection}>
+					Now
+				</button>
+				<button 
+					name="daily" 
+					className={dailyClasses.join(' ')} 
+					onClick={this.props.changeSelection}>
+					Daily
+				</button>
 			</div>
 		);
 	}
