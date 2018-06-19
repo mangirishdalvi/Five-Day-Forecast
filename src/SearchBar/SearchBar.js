@@ -10,8 +10,20 @@ function UnitSelector(props)
 	let fClass=(props.unit==='F')?'selected':'';
 		return (								
 			<div className="unit-selector">
-				<button name="C" className={cClass+' unit-button height-set'} onClick={props.changeUnit}>&deg;C</button>
-				<button name="F" className={fClass+' unit-button height-set'} onClick={props.changeUnit}>&deg;F</button>
+				<button 
+					name="C" 
+					className={cClass+' unit-button height-set'} 
+					onClick={props.changeUnit}
+					>
+						&deg;C
+				</button>
+				<button 
+					name="F" 
+					className={fClass+' unit-button height-set'} 
+					onClick={props.changeUnit}
+					>
+					&deg;F
+				</button>
 			</div>
 		);
 }
@@ -57,8 +69,18 @@ class SearchBar extends Component
 		return (
 			<div className="search-form">
 			<form onSubmit={this.handleClick} className="height-set">
-				<Autocomplete name='search' className='search height-set' onChange={this.handleChange} onPlaceSelected={this.onSelect} />
-				<button type="submit" id="submit-button" name="button" className="height-set"><span className="fas fa-search"></span></button>
+				<Autocomplete 
+					name='search' 
+					className='search height-set'
+					onChange={this.handleChange} 
+					onPlaceSelected={this.onSelect} />
+				<button 
+					type="submit" 
+					id="submit-button" 
+					name="button" 
+					className="height-set">
+						<span className="fas fa-search"></span>
+				</button>
 			</form>
 				<UnitSelector unit={this.props.unit} changeUnit={this.props.functions.changeUnit} />
 			</div>

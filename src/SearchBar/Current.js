@@ -30,9 +30,12 @@ function Current(props)
 {
 	const iconMap=iMap();
 		const {forecast}=props;
-		const currentTemperature=(props.unit==='F')?forecast.temperature:FtoC(forecast.temperature);
-		const apparentTemperature=(props.unit==='F')?forecast.apparentTemperature:FtoC(forecast.apparentTemperature);
-		const dewPoint=(props.unit==='F')?forecast.dewPoint:FtoC(forecast.dewPoint);
+		const currentTemperature=(props.unit==='F')?forecast.temperature
+												   :FtoC(forecast.temperature);
+		const apparentTemperature=(props.unit==='F')?forecast.apparentTemperature
+													:FtoC(forecast.apparentTemperature);
+		const dewPoint=(props.unit==='F')?forecast.dewPoint
+										 :FtoC(forecast.dewPoint);
 		// console.log("forecast:");
 		// console.log(forecast);
 		return (

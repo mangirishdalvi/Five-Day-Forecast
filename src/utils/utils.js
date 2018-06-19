@@ -32,7 +32,7 @@ function getTimezone(timestamp,timezone)
 	return a.format('h:mm A');
 }
 
-function iconMap()
+export function iconMap()
 {
 	let res={}
 	res['clear-day']='wi wi-day-sunny';
@@ -48,4 +48,4 @@ function iconMap()
 	return res;
 }
 
-export {getDay,getDate,FtoC,CtoF,getTimezone,iconMap};
+export {getDay,getDate,FtoC,CtoF,getTimezone};
