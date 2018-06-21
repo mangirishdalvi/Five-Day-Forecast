@@ -108,9 +108,18 @@ class App extends Component {
 		let container=(this.state.loading===true)?null:
 				(this.state.errors.retrieve)?'Unable to retrieve forecast':
 		 		(this.state.selected==='daily')?(
-					<ForeCastList load={this.state.loading} forecast={this.state.forecast} unit={this.state.unit} id="container"/>
+					<ForeCastList 
+						load={this.state.loading} 
+						forecast={this.state.forecast} 
+						unit={this.state.unit} 
+						id="container"/>
 				):(
-					<Current place={this.state.forecast.place} load={this.state.loading} forecast={this.state.forecast.currently} id="container" unit={this.state.unit}/>
+					<Current 
+						place={this.state.forecast.place} 
+						load={this.state.loading} 
+						forecast={this.state.forecast.currently} 
+						id="container" 
+						unit={this.state.unit}/>
 				);
 
 		let functions={
@@ -123,7 +132,10 @@ class App extends Component {
 			<div className="App">
 				<div className="main">
 					<SearchBar unit={this.state.unit} functions={functions} />
-					<Menu forecast={this.state.forecast} selected={this.state.selected} changeSelection={this.changeSelection} />
+					<Menu 
+						forecast={this.state.forecast} 
+						selected={this.state.selected} 
+						changeSelection={this.changeSelection} />
 					<div id="load">{container}</div>
 					<div id="loader" className="current">
 						<i className="fa fa-spinner" id="spinner"></i>
