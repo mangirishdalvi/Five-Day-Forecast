@@ -92,6 +92,12 @@ html, body { margin: 0; padding: 0; height: 100%; width: 100%; background-color:
 	height: 324px;
 }
 
+#error{
+  font-family: Lato, sans-serif;
+  font-size: 3em;
+  color: red;
+}
+
 @keyframes infinite-spinning {
   from {
     transform: rotate(0deg);

@@ -54,12 +54,20 @@ class SearchBar extends Component
 			this.props.functions.setLoading(true);
     		const lat=this.state.place.geometry.location.lat();
 			const lng=this.state.place.geometry.location.lng();
-    		Proxy.Weather(lat,lng).
-    		then((values)=>{
+    		Proxy.Weather(lat,lng).then((values)=>{
 				values.place=this.state.place.formatted_address;
 				// console.log(this.state.place);
     			this.props.functions.searchBarClick(values);
-    		});
+			}).catch((err)=>{
+				if(!err.response)
+				{
+					this.props.functions.setErrors('Server is offline');
+				}
+				else
+				{
+					this.props.functions.setErrors('Unable to retreive forecast');
+				}
+			});
     	}
     }
 

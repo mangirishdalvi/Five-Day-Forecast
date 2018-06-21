@@ -61,7 +61,7 @@ class App extends Component {
 				unit:'F',
 				selected: 'now',
 				loading: true,
-				errors:{}	
+				errors:null	
 			};
 	}
 
@@ -81,11 +81,18 @@ class App extends Component {
 			this.searchBarClick(res);
 		})
 		.catch((err)=>{
-			this.setErrors(err);
+			if(!err.response)
+			{
+				this.setErrors('Server is offline');
+			}
+			else
+			{
+				this.setErrors('Unable to retreive forecast');
+			}
 		});
 	}
 
-	setErrors= function(err)
+	setErrors= (err)=>
 	{
 		this.setState({errors:err});
 	}
@@ -93,7 +100,7 @@ class App extends Component {
 	searchBarClick=(forecast)=>
 	{
 		// console.log(get);
-		this.setState({forecast:forecast,loading:false,errors:{}});
+		this.setState({forecast:forecast,loading:false,errors:null});
 	}
 
 	setLoading = (load)=>{
@@ -105,27 +112,32 @@ class App extends Component {
 	}
 
 	render() {
-		let container=(this.state.loading===true)?null:
-				(this.state.errors.retrieve)?'Unable to retrieve forecast':
-		 		(this.state.selected==='daily')?(
-					<ForeCastList 
-						load={this.state.loading} 
-						forecast={this.state.forecast} 
-						unit={this.state.unit} 
-						id="container"/>
-				):(
-					<Current 
-						place={this.state.forecast.place} 
-						load={this.state.loading} 
-						forecast={this.state.forecast.currently} 
-						id="container" 
-						unit={this.state.unit}/>
-				);
+		let {errors}=this.state;
+		let container=(errors)?(
+									<div className="current"><span id="error">{errors}</span></div>
+								)	
+							  :(this.state.loading===true)?null
+							  :(this.state.selected==='daily')?(
+									<ForeCastList 
+										load={this.state.loading} 
+										forecast={this.state.forecast} 
+										unit={this.state.unit} 
+										id="container"/>
+									):
+									(
+									<Current 
+										place={this.state.forecast.place} 
+										load={this.state.loading} 
+										forecast={this.state.forecast.currently} 
+										id="container" 
+										unit={this.state.unit}/>
+						);
 
 		let functions={
 			searchBarClick:this.searchBarClick,
 			setLoading:this.setLoading,
-			changeUnit:this.changeUnit
+			changeUnit:this.changeUnit,
+			setErrors:this.setErrors
 		};
 
 		return (
