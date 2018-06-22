@@ -29,7 +29,7 @@ function ForeCastList(props)
 		if(!forecast)
 			return null;
 
-		console.log(forecast.currently);
+		// console.log(forecast.currently);
 		let elements= forecast.daily.map((element)=>{
 			 let {temperatureHigh,temperatureLow}=element;
 			 let result={
