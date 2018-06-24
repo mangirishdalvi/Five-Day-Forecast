@@ -113,7 +113,9 @@ class App extends Component {
 
 	render() {
 		let {errors}=this.state;
-		let container=(errors)?(<div className="current"><span id="error">{errors}</span></div>)	
+		let container=(errors)?(
+									<div className="current"><span id="error">{errors}</span></div>
+								)	
 							  :(this.state.loading===true)?null
 							  :(this.state.selected==='daily')?(
 									<ForeCastList 
