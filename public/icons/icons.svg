@@ -1,0 +1,695 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1282 538">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="39.934" y1="340.949" x2="68.868" y2="312.016">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="11.462" y1="357.956" x2="47.485" y2="321.933">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="16.487" y1="386.943" x2="36.513" y2="366.918">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="1100.467" y1="508.991" x2="1123.457" y2="486">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd5" gradientUnits="userSpaceOnUse"  x1="1078.487" y1="537.943" x2="1098.513" y2="517.918">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd6" gradientUnits="userSpaceOnUse"  x1="799.842" y1="505.904" x2="817.814" y2="487.932">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd7" gradientUnits="userSpaceOnUse"  x1="493.467" y1="45.991" x2="516.457" y2="23">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd8" gradientUnits="userSpaceOnUse"  x1="460.161" y1="74.726" x2="481.562" y2="53.325">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd9" gradientUnits="userSpaceOnUse"  x1="482.017" y1="73.84" x2="502.983" y2="52.875">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd10" gradientUnits="userSpaceOnUse"  x1="1252.934" y1="192.949" x2="1281.868" y2="164.016">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd11" gradientUnits="userSpaceOnUse"  x1="1225.462" y1="207.956" x2="1261.485" y2="171.933">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd12" gradientUnits="userSpaceOnUse"  x1="1218.161" y1="236.726" x2="1239.562" y2="215.325">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd13" gradientUnits="userSpaceOnUse"  x1="1240.017" y1="235.84" x2="1260.983" y2="214.875">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd14" gradientUnits="userSpaceOnUse"  x1="929.453" y1="65.264" x2="951.475" y2="43.241">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd15" gradientUnits="userSpaceOnUse"  x1="949.934" y1="28.949" x2="978.868" y2="0.016">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd16" gradientUnits="userSpaceOnUse"  x1="921.462" y1="44.956" x2="957.485" y2="8.933">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd17" gradientUnits="userSpaceOnUse"  x1="1080.452" y1="379.264" x2="1102.475" y2="357.241">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd18" gradientUnits="userSpaceOnUse"  x1="1100.467" y1="357.991" x2="1123.457" y2="335">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd19" gradientUnits="userSpaceOnUse"  x1="928.452" y1="529.264" x2="950.475" y2="507.241">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd20" gradientUnits="userSpaceOnUse"  x1="948.934" y1="491.949" x2="977.868" y2="463.016">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd21" gradientUnits="userSpaceOnUse"  x1="970.101" y1="471.104" x2="977.508" y2="463.697">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd22" gradientUnits="userSpaceOnUse"  x1="915.649" y1="474.566" x2="921.3" y2="468.915">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd23" gradientUnits="userSpaceOnUse"  x1="921.462" y1="508.956" x2="957.485" y2="472.933">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd24" gradientUnits="userSpaceOnUse"  x1="37.996" y1="192.995" x2="63.991" y2="167.001">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd25" gradientUnits="userSpaceOnUse"  x1="19.452" y1="228.264" x2="41.475" y2="206.241">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd26" gradientUnits="userSpaceOnUse"  x1="39.466" y1="207.991" x2="62.457" y2="185">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd27" gradientUnits="userSpaceOnUse"  x1="1251.934" y1="492.949" x2="1280.868" y2="464.016">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd28" gradientUnits="userSpaceOnUse"  x1="1225.462" y1="507.956" x2="1261.485" y2="471.933">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd29" gradientUnits="userSpaceOnUse"  x1="1237.547" y1="524.72" x2="1246.32" y2="515.947">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd30" gradientUnits="userSpaceOnUse"  x1="642.996" y1="491.995" x2="668.991" y2="466.001">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd31" gradientUnits="userSpaceOnUse"  x1="645.467" y1="507.991" x2="668.457" y2="485">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd32" gradientUnits="userSpaceOnUse"  x1="631.547" y1="524.72" x2="640.32" y2="515.947">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd33" gradientUnits="userSpaceOnUse"  x1="797.934" y1="192.949" x2="826.868" y2="164.016">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd34" gradientUnits="userSpaceOnUse"  x1="770.462" y1="207.956" x2="806.485" y2="171.933">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd35" gradientUnits="userSpaceOnUse"  x1="771.594" y1="230.669" x2="787.25" y2="215.013">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd36" gradientUnits="userSpaceOnUse"  x1="342.467" y1="207.991" x2="365.457" y2="185">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd37" gradientUnits="userSpaceOnUse"  x1="317.594" y1="230.669" x2="333.25" y2="215.013">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd38" gradientUnits="userSpaceOnUse"  x1="797.934" y1="29.949" x2="826.868" y2="1.016">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd39" gradientUnits="userSpaceOnUse"  x1="818.101" y1="9.104" x2="825.508" y2="1.697">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd40" gradientUnits="userSpaceOnUse"  x1="763.649" y1="11.566" x2="769.3" y2="5.915">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd41" gradientUnits="userSpaceOnUse"  x1="770.462" y1="44.956" x2="806.485" y2="8.933">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd42" gradientUnits="userSpaceOnUse"  x1="491.996" y1="346.995" x2="517.991" y2="321.001">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd43" gradientUnits="userSpaceOnUse"  x1="493.466" y1="362.991" x2="516.457" y2="340">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd44" gradientUnits="userSpaceOnUse"  x1="1252.934" y1="342.949" x2="1281.868" y2="314.016">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd45" gradientUnits="userSpaceOnUse"  x1="1225.462" y1="358.956" x2="1261.485" y2="322.933">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd46" gradientUnits="userSpaceOnUse"  x1="645.467" y1="207.991" x2="668.457" y2="185">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd47" gradientUnits="userSpaceOnUse"  x1="620.999" y1="363.996" x2="661.995" y2="323">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd48" gradientUnits="userSpaceOnUse"  x1="184.452" y1="65.264" x2="206.475" y2="43.241">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd49" gradientUnits="userSpaceOnUse"  x1="190.934" y1="28.949" x2="219.868" y2="0.016">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd50" gradientUnits="userSpaceOnUse"  x1="163.462" y1="44.956" x2="199.485" y2="8.933">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd51" gradientUnits="userSpaceOnUse"  x1="159.027" y1="67.666" x2="174.684" y2="52.009">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd52" gradientUnits="userSpaceOnUse"  x1="335.452" y1="65.264" x2="357.475" y2="43.241">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd53" gradientUnits="userSpaceOnUse"  x1="342.467" y1="45.991" x2="365.457" y2="23">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd54" gradientUnits="userSpaceOnUse"  x1="311.027" y1="67.666" x2="326.684" y2="52.009">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd55" gradientUnits="userSpaceOnUse"  x1="342.934" y1="492.949" x2="371.868" y2="464.016">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd56" gradientUnits="userSpaceOnUse"  x1="315.462" y1="508.956" x2="351.485" y2="472.933">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd57" gradientUnits="userSpaceOnUse"  x1="320.051" y1="537.863" x2="341.728" y2="516.186">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd58" gradientUnits="userSpaceOnUse"  x1="1100.467" y1="45.991" x2="1123.457" y2="23">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd59" gradientUnits="userSpaceOnUse"  x1="1078.051" y1="73.863" x2="1099.728" y2="52.186">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd60" gradientUnits="userSpaceOnUse"  x1="1064.999" y1="213.996" x2="1105.995" y2="173">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd61" gradientUnits="userSpaceOnUse"  x1="932.413" y1="232.814" x2="949.375" y2="215.851">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd62" gradientUnits="userSpaceOnUse"  x1="949.934" y1="191.949" x2="978.868" y2="163.016">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd63" gradientUnits="userSpaceOnUse"  x1="921.462" y1="207.956" x2="957.485" y2="171.933">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd64" gradientUnits="userSpaceOnUse"  x1="174.413" y1="383.814" x2="191.375" y2="366.851">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd65" gradientUnits="userSpaceOnUse"  x1="190.467" y1="357.991" x2="213.457" y2="335">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd66" gradientUnits="userSpaceOnUse"  x1="646.934" y1="29.949" x2="675.868" y2="1.016">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd67" gradientUnits="userSpaceOnUse"  x1="617.462" y1="44.956" x2="653.485" y2="8.933">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd68" gradientUnits="userSpaceOnUse"  x1="633.9" y1="64" x2="644.9" y2="53">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd69" gradientUnits="userSpaceOnUse"  x1="493.467" y1="507.991" x2="516.457" y2="485">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd70" gradientUnits="userSpaceOnUse"  x1="481.9" y1="526" x2="492.9" y2="515">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd71" gradientUnits="userSpaceOnUse"  x1="154.999" y1="509.996" x2="195.995" y2="469">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd72" gradientUnits="userSpaceOnUse"  x1="39.934" y1="492.949" x2="68.868" y2="464.016">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd73" gradientUnits="userSpaceOnUse"  x1="11.462" y1="507.956" x2="47.485" y2="471.933">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd74" gradientUnits="userSpaceOnUse"  x1="26.072" y1="531.732" x2="41.845" y2="515.96">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd75" gradientUnits="userSpaceOnUse"  x1="39.466" y1="44.991" x2="62.457" y2="22">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd76" gradientUnits="userSpaceOnUse"  x1="24.072" y1="68.732" x2="39.845" y2="52.96">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd77" gradientUnits="userSpaceOnUse"  x1="466.938" y1="219.959" x2="512.845" y2="174.052">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd78" gradientUnits="userSpaceOnUse"  x1="493.101" y1="174.104" x2="500.508" y2="166.697">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd79" gradientUnits="userSpaceOnUse"  x1="499.348" y1="190.595" x2="510.572" y2="179.371">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+		<linearGradient id="grd80" gradientUnits="userSpaceOnUse"  x1="1255.257" y1="63.587" x2="1265.199" y2="53.645">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd81" gradientUnits="userSpaceOnUse"  x1="1252.934" y1="29.949" x2="1281.868" y2="1.016">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd82" gradientUnits="userSpaceOnUse"  x1="1224.462" y1="45.956" x2="1260.485" y2="9.933">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd83" gradientUnits="userSpaceOnUse"  x1="1227.987" y1="74.943" x2="1248.013" y2="54.918">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd84" gradientUnits="userSpaceOnUse"  x1="798.257" y1="375.587" x2="808.199" y2="365.645">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd85" gradientUnits="userSpaceOnUse"  x1="797.467" y1="357.991" x2="820.457" y2="335">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd86" gradientUnits="userSpaceOnUse"  x1="770.987" y1="386.943" x2="791.013" y2="366.918">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd87" gradientUnits="userSpaceOnUse"  x1="170.453" y1="204.972" x2="204.472" y2="170.954">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+		<linearGradient id="grd88" gradientUnits="userSpaceOnUse"  x1="161" y1="215" x2="179" y2="197">
+			<stop offset="0" stop-color="#d6f2fd"  />
+			<stop offset="1" stop-color="#e5f5fd"  />
+		</linearGradient>
+		<linearGradient id="grd89" gradientUnits="userSpaceOnUse"  x1="928.454" y1="359.972" x2="962.472" y2="325.954">
+			<stop offset="0" stop-color="#00ccff"  />
+			<stop offset="1" stop-color="#5ddefe"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #def4fe } 
+		.shp1 { fill: url(#grd1) } 
+		.shp2 { fill: url(#grd2) } 
+		.shp3 { fill: #ffffff } 
+		.shp4 { fill: url(#grd3) } 
+		.shp5 { fill: url(#grd4) } 
+		.shp6 { fill: url(#grd5) } 
+		.shp7 { fill: url(#grd6) } 
+		.shp8 { fill: url(#grd7) } 
+		.shp9 { fill: url(#grd8) } 
+		.shp10 { fill: url(#grd9) } 
+		.shp11 { fill: url(#grd10) } 
+		.shp12 { fill: url(#grd11) } 
+		.shp13 { fill: url(#grd12) } 
+		.shp14 { fill: url(#grd13) } 
+		.shp15 { fill: url(#grd14) } 
+		.shp16 { fill: url(#grd15) } 
+		.shp17 { fill: url(#grd16) } 
+		.shp18 { fill: url(#grd17) } 
+		.shp19 { fill: url(#grd18) } 
+		.shp20 { fill: url(#grd19) } 
+		.shp21 { fill: url(#grd20) } 
+		.shp22 { fill: url(#grd21) } 
+		.shp23 { fill: url(#grd22) } 
+		.shp24 { fill: url(#grd23) } 
+		.shp25 { fill: url(#grd24) } 
+		.shp26 { fill: url(#grd25) } 
+		.shp27 { fill: url(#grd26) } 
+		.shp28 { fill: url(#grd27) } 
+		.shp29 { fill: url(#grd28) } 
+		.shp30 { fill: url(#grd29) } 
+		.shp31 { fill: url(#grd30) } 
+		.shp32 { fill: url(#grd31) } 
+		.shp33 { fill: url(#grd32) } 
+		.shp34 { fill: url(#grd33) } 
+		.shp35 { fill: url(#grd34) } 
+		.shp36 { fill: url(#grd35) } 
+		.shp37 { fill: url(#grd36) } 
+		.shp38 { fill: url(#grd37) } 
+		.shp39 { fill: url(#grd38) } 
+		.shp40 { fill: url(#grd39) } 
+		.shp41 { fill: url(#grd40) } 
+		.shp42 { fill: url(#grd41) } 
+		.shp43 { fill: url(#grd42) } 
+		.shp44 { fill: url(#grd43) } 
+		.shp45 { fill: url(#grd44) } 
+		.shp46 { fill: url(#grd45) } 
+		.shp47 { fill: url(#grd46) } 
+		.shp48 { fill: url(#grd47) } 
+		.shp49 { fill: url(#grd48) } 
+		.shp50 { fill: url(#grd49) } 
+		.shp51 { fill: url(#grd50) } 
+		.shp52 { fill: url(#grd51) } 
+		.shp53 { fill: url(#grd52) } 
+		.shp54 { fill: url(#grd53) } 
+		.shp55 { fill: url(#grd54) } 
+		.shp56 { fill: url(#grd55) } 
+		.shp57 { fill: url(#grd56) } 
+		.shp58 { fill: url(#grd57) } 
+		.shp59 { fill: url(#grd58) } 
+		.shp60 { fill: url(#grd59) } 
+		.shp61 { fill: url(#grd60) } 
+		.shp62 { fill: url(#grd61) } 
+		.shp63 { fill: url(#grd62) } 
+		.shp64 { fill: url(#grd63) } 
+		.shp65 { fill: url(#grd64) } 
+		.shp66 { fill: url(#grd65) } 
+		.shp67 { fill: url(#grd66) } 
+		.shp68 { fill: url(#grd67) } 
+		.shp69 { fill: url(#grd68) } 
+		.shp70 { fill: url(#grd69) } 
+		.shp71 { fill: url(#grd70) } 
+		.shp72 { fill: url(#grd71) } 
+		.shp73 { fill: url(#grd72) } 
+		.shp74 { fill: url(#grd73) } 
+		.shp75 { fill: url(#grd74) } 
+		.shp76 { fill: url(#grd75) } 
+		.shp77 { fill: url(#grd76) } 
+		.shp78 { fill: url(#grd77) } 
+		.shp79 { fill: url(#grd78) } 
+		.shp80 { fill: url(#grd79) } 
+		.shp81 { fill: url(#grd80) } 
+		.shp82 { fill: url(#grd81) } 
+		.shp83 { fill: url(#grd82) } 
+		.shp84 { fill: url(#grd83) } 
+		.shp85 { fill: url(#grd84) } 
+		.shp86 { fill: url(#grd85) } 
+		.shp87 { fill: url(#grd86) } 
+		.shp88 { fill: url(#grd87) } 
+		.shp89 { fill: url(#grd88) } 
+		.shp90 { fill: url(#grd89) } 
+	</style>
+	<!-- row1 start -->
+	<view id="light-rain" viewBox="0 0 70 70"/>
+	<view id="mix-rainfall-night" viewBox="151 0 70 70"/>
+	<view id="mix-rain" viewBox="303 0 70 70"/>
+	<view id="sleet" viewBox="455 0 70 70"/>
+	<view id="fog-night" viewBox="606 0 70 70"/>
+	<view id="partly-cloudy-night" viewBox="759 0 70 70"/>
+	<view id="severe-thunderstorm-night" viewBox="910 0 70 70"/>
+	<view id="heavy-rain" viewBox="1061 0 70 70"/>
+	<view id="blizzard-night" viewBox="1212 0 70 70"/>
+	<!-- row1 end -->
+	<!-- row2 start -->
+	<view id="scattered-thunderstorm" viewBox="0 165 70 70"/>
+	<view id="breezy-snow" viewBox="151 165 70 70"/>
+	<view id="rain" viewBox="303 165 70 70"/>
+	<view id="clear-night" viewBox="455 165 70 70"/> 
+	<view id="mostly-cloudy" viewBox="606 165 70 70"/>
+	<view id="rain-night" viewBox="759 165 70 70"/>
+	<view id="hail-night" viewBox="910 165 70 70"/>
+	<view id="haze" viewBox="1061 165 70 70"/>
+	<view id="sleet-night" viewBox="1212 165 70 70"/>
+	<!-- row2 end -->
+	<!-- row3 start -->
+	<view id="snow-night" viewBox="0 310 70 70"/>
+	<view id="hail" viewBox="151 315 70 70"/>
+	<view id="tornado" viewBox="303 315 70 70"/>
+	<view id="partly-cloudy" viewBox="455 315 70 70"/> 
+	<view id="clear-day" viewBox="606 310 70 70"/>
+	<view id="blizzard" viewBox="759 317 70 70"/>
+	<view id="wind" viewBox="910 310 70 70"/>
+	<view id="severe-thunderstorm" viewBox="1061 315 70 70"/>
+	<view id="cloudy-night" viewBox="1212 310 70 70"/>
+	<!-- row3 end -->
+	<!-- row4 start -->
+	<view id="light-rain-night" viewBox="0 463 70 70"/>
+	<view id="dust" viewBox="151 457 70 70"/>
+	<view id="heavy-rain-night" viewBox="303 463 70 70"/>
+	<view id="fog" viewBox="455 463 70 70"/> 
+	<view id="scattered-showers" viewBox="606 463 70 70"/>
+	<view id="smoke" viewBox="759 463 70 70"/>
+	<view id="scattered-thunderstorm-night" viewBox="910 463 70 70"/>
+	<view id="snow" viewBox="1061 463 70 70"/>
+	<view id="scattered-showers-night" viewBox="1212 463 70 70"/>
+	<!-- row4 end -->
+		<g id="Tornado">
+			<path id="tronado" class="shp0" d="M359,327.87c0,-1.09 -0.9,-1.98 -2,-1.98h-39c-1.1,0 -2,0.89 -2,1.98c0,1.09 0.9,1.98 2,1.98h39c1.1,0 2,-0.89 2,-1.98zM351.89,331.83M324,320.94M349,337.4c0,-1.09 -0.9,-1.98 -2,-1.98h-21c-1.1,0 -2,0.89 -2,1.98c0,1.09 0.9,1.98 2,1.98h21c1.1,0 2,-0.89 2,-1.98zM352,346.93c0,-1.09 -0.9,-1.98 -2,-1.98h-18c-1.1,0 -2,0.89 -2,1.98c0,1.09 0.9,1.98 2,1.98h18c1.1,0 2,-0.89 2,-1.98zM346,356.45c0,-1.09 -0.9,-1.98 -2,-1.98h-12c-1.1,0 -2,0.89 -2,1.98c0,1.09 0.9,1.98 2,1.98h12c1.1,0 2,-0.89 2,-1.98zM336.5,365.98c0,-1.09 -0.9,-1.98 -2,-1.98h-1c-1.1,0 -2,0.89 -2,1.98c0,1.09 0.9,1.98 2,1.98h1c1.1,0 2,-0.89 2,-1.98z" />
+		</g>
+		<g id="Snow Night">
+			<path id="moon-small" class="shp1" d="M68.84,330.28c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-1.21,0.35 -2.43,0.52 -3.64,0.52c-7.28,0 -13.2,-5.92 -13.2,-13.2c0,-1.21 0.18,-2.44 0.52,-3.64c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-6.28,1.8 -10.67,7.63 -10.67,14.16c0,8.13 6.61,14.74 14.74,14.74c6.53,0 12.36,-4.39 14.16,-10.67z" />
+			<path id="cloud-large-night" class="shp2" d="M47.24,357.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small" class="shp3" d="M61.18,357.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="snow-01" class="shp4" d="M14,366.92c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM24,366.92c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM34,366.92c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM44,366.92c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM14,382.99c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM24,382.99c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM34,382.99c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM44,382.99c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM9,375.1c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM19,375.1c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM29,375.1c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM39,375.1c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97z" />
+		</g>
+		<g id="Snow">
+			<path id="cloud-large" class="shp3" d="M1109.24,508.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small-dark" class="shp5" d="M1123.18,508.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="snow-01" class="shp6" d="M1076,517.92c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1086,517.92c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1096,517.92c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1106,517.92c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1076,533.99c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1086,533.99c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1096,533.99c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1106,533.99c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1071,526.1c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1081,526.1c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1091,526.1c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1101,526.1c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97z" />
+		</g>
+		<g id="Smoke">
+			<path id="smoke-01" class="shp0" d="M771.49,478.99c-7.46,0 -13.5,6.05 -13.5,13.5c0,7.46 6.05,13.5 13.5,13.5c7.46,0 13.5,-6.05 13.5,-13.5c0,-7.46 -6.05,-13.5 -13.5,-13.5z" />
+			<path id="smoke-04" class="shp3" d="M790.45,512.96c6.9,0 12.49,-5.59 12.49,-12.49c0,-6.9 -5.59,-12.49 -12.49,-12.49c-6.9,0 -12.49,5.59 -12.49,12.49c0,6.9 5.59,12.49 12.49,12.49z" />
+			<path id="smoke-05" class="shp3" d="M806.5,476c-5.8,0 -10.5,4.7 -10.5,10.5c0,5.8 4.7,10.5 10.5,10.5c5.8,0 10.5,-4.7 10.5,-10.5c0,-5.8 -4.7,-10.5 -10.5,-10.5z" />
+			<path id="smoke-06" class="shp3" d="M809.81,493.86c0,4.96 4.02,8.99 8.99,8.99c4.96,0 8.99,-4.02 8.99,-8.99c0,-4.96 -4.02,-8.99 -8.99,-8.99c-4.96,0 -8.99,4.02 -8.99,8.99z" />
+			<path id="smoke-02" class="shp0" d="M788.85,473.92c-5.53,0 -10.01,4.48 -10.01,10.01c0,5.53 4.48,10.01 10.01,10.01c5.53,0 10.01,-4.48 10.01,-10.01c0,-5.53 -4.48,-10.01 -10.01,-10.01z" />
+			<path id="smoke-03" class="shp7" d="M808.83,505.9c4.96,0 8.99,-4.02 8.99,-8.99c0,-4.96 -4.02,-8.99 -8.99,-8.99c-4.96,0 -8.99,4.02 -8.99,8.99c0,4.96 4.02,8.99 8.99,8.99z" />
+		</g>
+		<g id="Sleet">
+			<path id="cloud-large" class="shp3" d="M502.24,45.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small-dark" class="shp8" d="M516.18,45.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="rain-03" class="shp9" d="M463.94,67.68l6.58,-11.44c0.56,-0.97 0.23,-2.22 -0.74,-2.78c-0.97,-0.56 -2.21,-0.23 -2.77,0.74l-6.58,11.44c-0.56,0.97 -0.23,2.22 0.74,2.78c0.32,0.19 0.67,0.27 1.01,0.27c0.7,0 1.38,-0.36 1.76,-1.02zM471.17,73.85l10.12,-17.61c0.56,-0.97 0.23,-2.22 -0.74,-2.78c-0.97,-0.56 -2.21,-0.23 -2.77,0.74l-10.12,17.61c-0.56,0.97 -0.23,2.22 0.74,2.78c0.32,0.19 0.67,0.27 1.01,0.27c0.7,0 1.38,-0.36 1.76,-1.02z" />
+			<path id="snow-03" class="shp10" d="M492,52.87c-1.1,0 -2,0.91 -2,2.03c0,1.12 0.9,2.03 2,2.03c1.1,0 2,-0.91 2,-2.03c0,-1.12 -0.9,-2.03 -2,-2.03M502,52.87c-1.1,0 -2,0.91 -2,2.03c0,1.12 0.9,2.03 2,2.03c1.1,0 2,-0.91 2,-2.03c0,-1.12 -0.9,-2.03 -2,-2.03M483,69.77c-1.1,0 -2,0.91 -2,2.03c0,1.12 0.9,2.03 2,2.03c1.1,0 2,-0.91 2,-2.03c0,-1.12 -0.9,-2.03 -2,-2.03zM486,63.16c0,1.12 0.9,2.03 2,2.03c1.1,0 2,-0.91 2,-2.03c0,-1.12 -0.9,-2.03 -2,-2.03c-1.1,0 -2,0.91 -2,2.03M498,61.12c-1.1,0 -2,0.91 -2,2.03c0,1.12 0.9,2.03 2,2.03c1.1,0 2,-0.91 2,-2.03c0,-1.12 -0.9,-2.03 -2,-2.03z" />
+		</g>
+		<g id="Sleet Night">
+			<path id="moon-small" class="shp11" d="M1281.84,182.28c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-1.21,0.35 -2.43,0.52 -3.64,0.52c-7.28,0 -13.2,-5.92 -13.2,-13.2c0,-1.21 0.18,-2.44 0.52,-3.64c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-6.28,1.8 -10.67,7.63 -10.67,14.16c0,8.13 6.61,14.74 14.74,14.74c6.53,0 12.36,-4.39 14.16,-10.67z" />
+			<path id="cloud-large-night" class="shp12" d="M1261.24,207.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small" class="shp3" d="M1275.18,207.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="rain-03" class="shp13" d="M1221.94,229.68l6.58,-11.44c0.56,-0.97 0.23,-2.22 -0.74,-2.78c-0.97,-0.56 -2.21,-0.23 -2.77,0.74l-6.58,11.44c-0.56,0.97 -0.23,2.22 0.74,2.78c0.32,0.19 0.67,0.27 1.01,0.27c0.7,0 1.38,-0.36 1.76,-1.02zM1229.17,235.85l10.12,-17.61c0.56,-0.97 0.23,-2.22 -0.74,-2.78c-0.97,-0.56 -2.21,-0.23 -2.77,0.74l-10.12,17.61c-0.56,0.97 -0.23,2.22 0.74,2.78c0.32,0.19 0.67,0.27 1.01,0.27c0.7,0 1.38,-0.36 1.76,-1.02z" />
+			<path id="snow-03" class="shp14" d="M1250,214.87c-1.1,0 -2,0.91 -2,2.03c0,1.12 0.9,2.03 2,2.03c1.1,0 2,-0.91 2,-2.03c0,-1.12 -0.9,-2.03 -2,-2.03M1260,214.87c-1.1,0 -2,0.91 -2,2.03c0,1.12 0.9,2.03 2,2.03c1.1,0 2,-0.91 2,-2.03c0,-1.12 -0.9,-2.03 -2,-2.03M1241,231.77c-1.1,0 -2,0.91 -2,2.03c0,1.12 0.9,2.03 2,2.03c1.1,0 2,-0.91 2,-2.03c0,-1.12 -0.9,-2.03 -2,-2.03zM1244,225.16c0,1.12 0.9,2.03 2,2.03c1.1,0 2,-0.91 2,-2.03c0,-1.12 -0.9,-2.03 -2,-2.03c-1.1,0 -2,0.91 -2,2.03M1256,223.12c-1.1,0 -2,0.91 -2,2.03c0,1.12 0.9,2.03 2,2.03c1.1,0 2,-0.91 2,-2.03c0,-1.12 -0.9,-2.03 -2,-2.03z" />
+		</g>
+		<g id="Severe Thunderstorm Night">
+			<path id="lightning" class="shp15" d="M939.63,40.98c-1.66,0 -3.7,1.18 -4.53,2.61l-5.3,9.19c-0.83,1.44 -0.15,2.52 1.5,2.4l4.33,-0.32c1.66,-0.12 2.36,0.97 1.57,2.43l-4.81,8.87c-0.79,1.46 -0.39,1.79 0.89,0.74l17.4,-14.34c1.28,-1.06 0.97,-1.85 -0.68,-1.77l-6.65,0.34c-1.66,0.08 -2.33,-1.02 -1.5,-2.46l2.93,-5.08c0.83,-1.44 0.15,-2.62 -1.51,-2.62z" />
+			<path id="moon-small" class="shp16" d="M978.84,18.28c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-1.21,0.35 -2.43,0.52 -3.64,0.52c-7.28,0 -13.2,-5.92 -13.2,-13.2c0,-1.21 0.18,-2.44 0.52,-3.64c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-6.28,1.8 -10.67,7.63 -10.67,14.16c0,8.13 6.61,14.74 14.74,14.74c6.53,0 12.36,-4.39 14.16,-10.67z" />
+			<path id="cloud-large-night" class="shp17" d="M957.24,44.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.96,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small" class="shp3" d="M971.18,44.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+		</g>
+		<g id="Severe Thunderstorm">
+			<path id="lightning" class="shp18" d="M1090.63,354.98c-1.66,0 -3.7,1.18 -4.53,2.61l-5.3,9.19c-0.83,1.44 -0.15,2.52 1.5,2.4l4.33,-0.32c1.66,-0.12 2.36,0.97 1.57,2.43l-4.81,8.87c-0.79,1.46 -0.39,1.79 0.89,0.74l17.4,-14.34c1.28,-1.06 0.97,-1.85 -0.68,-1.77l-6.65,0.34c-1.66,0.08 -2.33,-1.02 -1.5,-2.46l2.93,-5.08c0.83,-1.44 0.15,-2.62 -1.51,-2.62z" />
+			<path id="cloud-large" class="shp3" d="M1109.24,357.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small-dark" class="shp19" d="M1123.18,357.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+		</g>
+		<g id="Scattered Thunderstorm Night">
+			<path id="lightning" class="shp20" d="M938.63,504.98c-1.66,0 -3.7,1.18 -4.53,2.61l-5.3,9.19c-0.83,1.44 -0.15,2.52 1.5,2.4l4.33,-0.32c1.66,-0.12 2.36,0.97 1.57,2.43l-4.81,8.87c-0.79,1.46 -0.39,1.79 0.89,0.74l17.4,-14.34c1.28,-1.06 0.97,-1.85 -0.68,-1.77l-6.65,0.34c-1.66,0.08 -2.33,-1.02 -1.5,-2.46l2.93,-5.08c0.83,-1.44 0.15,-2.62 -1.51,-2.62z" />
+			<path id="moon-small" class="shp21" d="M977.84,481.28c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-1.21,0.35 -2.43,0.52 -3.64,0.52c-7.28,0 -13.2,-5.92 -13.2,-13.2c0,-1.21 0.18,-2.44 0.52,-3.64c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-6.28,1.8 -10.67,7.63 -10.67,14.16c0,8.13 6.61,14.74 14.74,14.74c6.53,0 12.36,-4.39 14.16,-10.67z" />
+			<path id="star-01" class="shp22" d="M976.73,467.92c1.04,-0.28 1.04,-0.75 0,-1.03c-1.04,-0.28 -2.12,-1.37 -2.41,-2.41c-0.28,-1.04 -0.75,-1.04 -1.03,0c-0.28,1.04 -1.37,2.12 -2.41,2.41c-1.04,0.28 -1.04,0.75 0,1.03c1.04,0.28 2.12,1.37 2.41,2.41c0.28,1.04 0.75,1.04 1.03,0c0.28,-1.04 1.37,-2.12 2.41,-2.41z" />
+			<path id="star-03" class="shp23" d="M920.7,472.13c0.79,-0.22 0.79,-0.57 0,-0.79c-0.79,-0.22 -1.62,-1.04 -1.84,-1.84c-0.22,-0.79 -0.57,-0.79 -0.79,0c-0.22,0.79 -1.04,1.62 -1.84,1.84c-0.79,0.22 -0.79,0.57 0,0.79c0.79,0.22 1.62,1.04 1.84,1.84c0.22,0.79 0.57,0.79 0.79,0c0.22,-0.79 1.04,-1.62 1.84,-1.84z" />
+			<path id="cloud-large-night" class="shp24" d="M957.24,508.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.96,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small" class="shp3" d="M971.18,508.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+		</g>
+		<g id="Scattered Thunderstorm">
+			<path id="sun-small" class="shp25" d="M50.99,167c-7.18,0 -13,5.82 -13,13c0,7.18 5.82,13 13,13c7.18,0 13,-5.82 13,-13c0,-7.18 -5.82,-13 -13,-13z" />
+			<path id="lightning" class="shp26" d="M29.63,203.98c-1.66,0 -3.7,1.18 -4.53,2.61l-5.3,9.19c-0.83,1.44 -0.15,2.52 1.5,2.4l4.33,-0.32c1.66,-0.12 2.36,0.97 1.57,2.43l-4.81,8.87c-0.79,1.46 -0.39,1.79 0.89,0.74l17.4,-14.34c1.28,-1.06 0.97,-1.85 -0.68,-1.77l-6.65,0.34c-1.66,0.08 -2.33,-1.02 -1.5,-2.46l2.93,-5.08c0.83,-1.44 0.15,-2.62 -1.51,-2.62z" />
+			<path id="cloud-large" class="shp3" d="M48.24,207.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small-dark" class="shp27" d="M62.18,207.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+		</g>
+		<g id="Scattered Showers Night">
+			<path id="moon-small" class="shp28" d="M1280.84,482.28c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-1.21,0.35 -2.43,0.52 -3.64,0.52c-7.28,0 -13.2,-5.92 -13.2,-13.2c0,-1.21 0.18,-2.44 0.52,-3.64c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-6.28,1.8 -10.67,7.63 -10.67,14.16c0,8.13 6.61,14.74 14.74,14.74c6.53,0 12.36,-4.39 14.16,-10.67z" />
+			<path id="cloud-large-night" class="shp29" d="M1261.24,507.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small" class="shp3" d="M1275.18,507.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="rain-06" class="shp30" d="M1227.99,523.75l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.2,-0.22 -2.76,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1.01,0.26c0.7,0 1.37,-0.35 1.75,-0.97zM1241.72,523.75l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.2,-0.22 -2.76,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1.01,0.26c0.7,0 1.37,-0.35 1.75,-0.97zM1256.46,523.75l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.2,-0.22 -2.76,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1.01,0.26c0.7,0 1.37,-0.35 1.75,-0.97z" />
+		</g>
+		<g id="Scattered Showers">
+			<path id="sun-small" class="shp31" d="M655.99,466c-7.18,0 -13,5.82 -13,13c0,7.18 5.82,13 13,13c7.18,0 13,-5.82 13,-13c0,-7.18 -5.82,-13 -13,-13z" />
+			<path id="cloud-large" class="shp3" d="M654.24,507.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small-dark" class="shp32" d="M668.18,507.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="rain-06" class="shp33" d="M621.99,523.75l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.2,-0.22 -2.76,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1.01,0.26c0.7,0 1.37,-0.35 1.75,-0.97zM635.72,523.75l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.2,-0.22 -2.76,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1.01,0.26c0.7,0 1.37,-0.35 1.75,-0.97zM650.46,523.75l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.2,-0.22 -2.76,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1.01,0.26c0.7,0 1.37,-0.35 1.75,-0.97z" />
+		</g>
+		<g id="Rain Nght">
+			<path id="moon-small" class="shp34" d="M826.84,182.28c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-1.21,0.35 -2.43,0.52 -3.64,0.52c-7.28,0 -13.2,-5.92 -13.2,-13.2c0,-1.21 0.18,-2.44 0.52,-3.64c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-6.28,1.8 -10.67,7.63 -10.67,14.16c0,8.13 6.61,14.74 14.74,14.74c6.53,0 12.36,-4.39 14.16,-10.67z" />
+			<path id="cloud-large-night" class="shp35" d="M806.24,207.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small" class="shp3" d="M820.18,207.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="rain-01" class="shp36" d="M766.89,229.64l6.44,-11.55c0.55,-0.98 0.22,-2.24 -0.72,-2.8c-0.95,-0.57 -2.16,-0.23 -2.71,0.75l-6.44,11.55c-0.55,0.98 -0.22,2.24 0.72,2.8c0.31,0.19 0.65,0.28 0.99,0.28c0.68,0 1.35,-0.37 1.72,-1.03zM777.92,229.64l6.44,-11.55c0.55,-0.98 0.22,-2.24 -0.72,-2.8c-0.95,-0.57 -2.16,-0.23 -2.71,0.75l-6.44,11.55c-0.55,0.98 -0.22,2.24 0.73,2.8c0.31,0.19 0.65,0.28 0.99,0.28c0.68,0 1.35,-0.37 1.72,-1.03zM788.95,229.64l6.44,-11.55c0.55,-0.98 0.22,-2.24 -0.72,-2.8c-0.95,-0.57 -2.16,-0.23 -2.71,0.75l-6.44,11.55c-0.55,0.98 -0.22,2.24 0.72,2.8c0.31,0.19 0.65,0.28 0.99,0.28c0.68,0 1.35,-0.37 1.72,-1.03z" />
+		</g>
+		<g id="Rain">
+			<path id="cloud-large" class="shp3" d="M351.24,207.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small-dark" class="shp37" d="M365.18,207.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="rain-01" class="shp38" d="M312.89,229.64l6.44,-11.55c0.55,-0.98 0.22,-2.24 -0.72,-2.8c-0.95,-0.57 -2.16,-0.23 -2.71,0.75l-6.44,11.55c-0.55,0.98 -0.22,2.24 0.73,2.8c0.31,0.19 0.65,0.28 0.99,0.28c0.68,0 1.35,-0.37 1.72,-1.03zM323.92,229.64l6.44,-11.55c0.55,-0.98 0.22,-2.24 -0.72,-2.8c-0.95,-0.57 -2.16,-0.23 -2.71,0.75l-6.44,11.55c-0.55,0.98 -0.22,2.24 0.73,2.8c0.31,0.19 0.65,0.28 0.99,0.28c0.68,0 1.35,-0.37 1.72,-1.03zM334.95,229.64l6.44,-11.55c0.55,-0.98 0.22,-2.24 -0.72,-2.8c-0.95,-0.57 -2.16,-0.23 -2.71,0.75l-6.44,11.55c-0.55,0.98 -0.22,2.24 0.73,2.8c0.31,0.19 0.65,0.28 0.99,0.28c0.68,0 1.35,-0.37 1.72,-1.03z" />
+		</g>
+		<g id="Party Cloudy Night">
+			<path id="moon-small" class="shp39" d="M826.84,19.28c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-1.21,0.35 -2.43,0.52 -3.64,0.52c-7.28,0 -13.2,-5.92 -13.2,-13.2c0,-1.21 0.18,-2.44 0.52,-3.64c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-6.28,1.8 -10.67,7.63 -10.67,14.16c0,8.13 6.61,14.74 14.74,14.74c6.53,0 12.36,-4.39 14.16,-10.67z" />
+			<path id="star-01" class="shp40" d="M824.73,5.92c1.04,-0.28 1.04,-0.75 0,-1.03c-1.04,-0.28 -2.12,-1.37 -2.41,-2.41c-0.28,-1.04 -0.75,-1.04 -1.03,0c-0.28,1.04 -1.37,2.12 -2.41,2.41c-1.04,0.28 -1.04,0.75 0,1.03c1.04,0.28 2.12,1.37 2.41,2.41c0.28,1.04 0.75,1.04 1.03,0c0.28,-1.04 1.37,-2.12 2.41,-2.41z" />
+			<path id="star-03" class="shp41" d="M768.7,9.13c0.79,-0.22 0.79,-0.57 0,-0.79c-0.79,-0.22 -1.62,-1.04 -1.84,-1.84c-0.22,-0.79 -0.57,-0.79 -0.79,0c-0.22,0.79 -1.04,1.62 -1.84,1.84c-0.79,0.22 -0.79,0.57 0,0.79c0.79,0.22 1.62,1.04 1.84,1.84c0.22,0.79 0.57,0.79 0.79,0c0.22,-0.79 1.04,-1.62 1.84,-1.84z" />
+			<path id="cloud-large-night" class="shp42" d="M806.24,44.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small" class="shp3" d="M820.18,44.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+		</g>
+		<g id="Party Cloudy">
+			<path id="sun-small" class="shp43" d="M504.99,321c-7.18,0 -13,5.82 -13,13c0,7.18 5.82,13 13,13c7.18,0 13,-5.82 13,-13c0,-7.18 -5.82,-13 -13,-13z" />
+			<path id="cloud-large" class="shp3" d="M502.24,362.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small-dark" class="shp44" d="M516.18,362.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+		</g>
+		<g id="Mostly Cloudy Night">
+			<path id="moon-small" class="shp45" d="M1281.84,332.28c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-1.21,0.35 -2.43,0.52 -3.64,0.52c-7.28,0 -13.2,-5.92 -13.2,-13.2c0,-1.21 0.18,-2.44 0.52,-3.64c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-6.28,1.8 -10.67,7.63 -10.67,14.16c0,8.13 6.61,14.74 14.74,14.74c6.53,0 12.36,-4.39 14.16,-10.67z" />
+			<path id="cloud-large-night" class="shp46" d="M1261.24,358.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small" class="shp3" d="M1275.18,358.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+		</g>
+		<g id="Mostly Cloudy">
+			<path id="cloud-large" class="shp3" d="M654.24,207.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small-dark" class="shp47" d="M668.18,207.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+		</g>
+		<g id="Mostly Sunny">
+			<path id="sun" class="shp48" d="M641.5,323c-11.32,0 -20.5,9.18 -20.5,20.5c0,11.32 9.18,20.5 20.5,20.5c11.32,0 20.5,-9.18 20.5,-20.5c0,-11.32 -9.18,-20.5 -20.5,-20.5z" />
+		</g>
+		<g id="Mix Rainfall Night">
+			<path id="lightning" class="shp49" d="M194.63,40.98c-1.66,0 -3.7,1.18 -4.53,2.61l-5.3,9.19c-0.83,1.44 -0.15,2.52 1.5,2.4l4.33,-0.32c1.66,-0.12 2.36,0.97 1.57,2.43l-4.81,8.87c-0.79,1.46 -0.39,1.79 0.89,0.74l17.4,-14.34c1.28,-1.06 0.97,-1.85 -0.68,-1.77l-6.65,0.34c-1.66,0.08 -2.33,-1.02 -1.5,-2.46l2.93,-5.08c0.83,-1.44 0.15,-2.62 -1.51,-2.62z" />
+			<path id="moon-small" class="shp50" d="M219.84,18.28c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-1.21,0.35 -2.43,0.52 -3.64,0.52c-7.28,0 -13.2,-5.92 -13.2,-13.2c0,-1.21 0.18,-2.44 0.52,-3.64c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-6.28,1.8 -10.67,7.63 -10.67,14.16c0,8.13 6.61,14.74 14.74,14.74c6.53,0 12.36,-4.39 14.16,-10.67z" />
+			<path id="cloud-large-night" class="shp51" d="M199.24,44.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.96,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small" class="shp3" d="M213.18,44.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="rain-02" class="shp52" d="M159.93,66.64l6.58,-11.55c0.56,-0.98 0.23,-2.24 -0.74,-2.8c-0.97,-0.57 -2.21,-0.23 -2.77,0.75l-6.58,11.55c-0.56,0.98 -0.23,2.24 0.74,2.8c0.32,0.19 0.67,0.27 1.01,0.27c0.7,0 1.38,-0.37 1.76,-1.03zM170.7,66.64l6.58,-11.55c0.56,-0.98 0.23,-2.24 -0.74,-2.8c-0.97,-0.57 -2.21,-0.23 -2.77,0.75l-6.58,11.55c-0.56,0.98 -0.23,2.24 0.74,2.8c0.32,0.19 0.67,0.27 1.01,0.27c0.7,0 1.38,-0.37 1.76,-1.03z" />
+		</g>
+		<g id="Mix Rainfall">
+			<path id="lightning" class="shp53" d="M345.63,40.98c-1.66,0 -3.7,1.18 -4.53,2.61l-5.3,9.19c-0.83,1.44 -0.15,2.52 1.5,2.4l4.33,-0.32c1.66,-0.12 2.36,0.97 1.57,2.43l-4.81,8.87c-0.79,1.46 -0.39,1.79 0.89,0.74l17.4,-14.34c1.28,-1.06 0.97,-1.85 -0.68,-1.77l-6.65,0.34c-1.66,0.08 -2.33,-1.02 -1.5,-2.46l2.93,-5.08c0.83,-1.44 0.15,-2.62 -1.51,-2.62z" />
+			<path id="cloud-large" class="shp3" d="M351.24,45.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small-dark" class="shp54" d="M365.18,45.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="rain-02" class="shp55" d="M311.93,66.64l6.58,-11.55c0.56,-0.98 0.23,-2.24 -0.74,-2.8c-0.97,-0.57 -2.21,-0.23 -2.77,0.75l-6.58,11.55c-0.56,0.98 -0.23,2.24 0.74,2.8c0.32,0.19 0.67,0.27 1.01,0.27c0.7,0 1.38,-0.37 1.76,-1.03zM322.7,66.64l6.58,-11.55c0.56,-0.98 0.23,-2.24 -0.74,-2.8c-0.97,-0.57 -2.21,-0.23 -2.77,0.75l-6.58,11.55c-0.56,0.98 -0.23,2.24 0.74,2.8c0.32,0.19 0.67,0.27 1.01,0.27c0.7,0 1.38,-0.37 1.76,-1.03z" />
+		</g>
+		<g id="Heavy Rain Night">
+			<path id="moon-small" class="shp56" d="M371.84,482.28c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-1.21,0.35 -2.43,0.52 -3.64,0.52c-7.28,0 -13.2,-5.92 -13.2,-13.2c0,-1.21 0.18,-2.44 0.52,-3.64c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-6.28,1.8 -10.67,7.63 -10.67,14.16c0,8.13 6.61,14.74 14.74,14.74c6.53,0 12.36,-4.39 14.16,-10.67z" />
+			<path id="cloud-large-night" class="shp57" d="M351.24,508.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small" class="shp3" d="M365.18,508.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="rain-04" class="shp58" d="M313.85,530.68l6.43,-11.44c0.55,-0.97 0.22,-2.22 -0.72,-2.78c-0.95,-0.56 -2.16,-0.23 -2.7,0.74l-6.43,11.44c-0.55,0.97 -0.22,2.22 0.72,2.78c0.31,0.19 0.65,0.27 0.99,0.27c0.68,0 1.35,-0.36 1.71,-1.02zM320.91,536.85l9.89,-17.61c0.55,-0.97 0.22,-2.22 -0.72,-2.78c-0.95,-0.56 -2.16,-0.23 -2.7,0.74l-9.89,17.61c-0.55,0.97 -0.22,2.22 0.72,2.78c0.31,0.18 0.65,0.27 0.99,0.27c0.68,0 1.35,-0.36 1.71,-1.02zM345.42,529.8l5.93,-10.57c0.55,-0.97 0.22,-2.22 -0.72,-2.78c-0.95,-0.56 -2.16,-0.23 -2.7,0.74l-5.93,10.57c-0.55,0.97 -0.22,2.22 0.72,2.78c0.31,0.19 0.65,0.27 0.99,0.27c0.68,0 1.35,-0.36 1.71,-1.02zM333.66,533.32l7.91,-14.09c0.55,-0.97 0.22,-2.22 -0.72,-2.78c-0.95,-0.56 -2.16,-0.23 -2.7,0.74l-7.91,14.09c-0.55,0.97 -0.22,2.22 0.72,2.78c0.31,0.18 0.65,0.27 0.99,0.27c0.68,0 1.35,-0.37 1.71,-1.02z" />
+		</g>
+		<g id="Heavy Rain">
+			<path id="cloud-large" class="shp3" d="M1109.24,45.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small-dark" class="shp59" d="M1123.18,45.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="rain-04" class="shp60" d="M1071.85,66.68l6.43,-11.44c0.55,-0.97 0.22,-2.22 -0.72,-2.78c-0.95,-0.56 -2.16,-0.23 -2.7,0.74l-6.43,11.44c-0.55,0.97 -0.22,2.22 0.72,2.78c0.31,0.19 0.65,0.27 0.99,0.27c0.68,0 1.35,-0.36 1.71,-1.02zM1078.91,72.85l9.89,-17.61c0.55,-0.97 0.22,-2.22 -0.72,-2.78c-0.95,-0.56 -2.16,-0.23 -2.7,0.74l-9.89,17.61c-0.55,0.97 -0.22,2.22 0.72,2.78c0.31,0.18 0.65,0.27 0.99,0.27c0.68,0 1.35,-0.36 1.71,-1.02zM1103.42,65.8l5.93,-10.57c0.55,-0.97 0.22,-2.22 -0.72,-2.78c-0.95,-0.56 -2.16,-0.23 -2.7,0.74l-5.93,10.57c-0.55,0.97 -0.22,2.22 0.72,2.78c0.31,0.19 0.65,0.27 0.99,0.27c0.68,0 1.35,-0.36 1.71,-1.02zM1091.66,69.32l7.91,-14.09c0.55,-0.97 0.22,-2.22 -0.72,-2.78c-0.95,-0.56 -2.16,-0.23 -2.7,0.74l-7.91,14.09c-0.55,0.97 -0.22,2.22 0.72,2.78c0.31,0.18 0.65,0.27 0.99,0.27c0.68,0 1.35,-0.37 1.71,-1.02z" />
+		</g>
+		<g id="Haze">
+			<path id="sun" class="shp61" d="M1085.5,173c-11.32,0 -20.5,9.18 -20.5,20.5c0,11.32 9.18,20.5 20.5,20.5c11.32,0 20.5,-9.18 20.5,-20.5c0,-11.32 -9.18,-20.5 -20.5,-20.5z" />
+			<path id="haze" class="shp3" d="M1096.05,192.27c0,-0.85 -0.68,-1.54 -1.52,-1.54h-10.11c-0.84,0 -1.52,0.69 -1.52,1.54c0,0.85 0.68,1.54 1.52,1.54h10.11c0.84,0 1.52,-0.69 1.52,-1.54zM1117.78,192.27c0,-0.85 -0.68,-1.54 -1.52,-1.54h-15.16c-0.84,0 -1.52,0.69 -1.52,1.54c0,0.85 0.68,1.54 1.52,1.54h15.16c0.84,0 1.52,-0.69 1.52,-1.54zM1096.05,207.14c0,-0.85 -0.68,-1.54 -1.52,-1.54h-10.11c-0.84,0 -1.52,0.69 -1.52,1.54c0,0.85 0.68,1.54 1.52,1.54h10.11c0.84,0 1.52,-0.69 1.52,-1.54zM1117.78,207.14c0,-0.85 -0.68,-1.54 -1.52,-1.54h-15.16c-0.84,0 -1.52,0.69 -1.52,1.54c0,0.85 0.68,1.54 1.52,1.54h15.16c0.84,0 1.52,-0.69 1.52,-1.54zM1106.16,199.96c0,-0.85 -0.68,-1.54 -1.52,-1.54h-20.22c-0.84,0 -1.52,0.69 -1.52,1.54c0,0.85 0.68,1.54 1.52,1.54h20.22c0.84,0 1.52,-0.69 1.52,-1.54zM1127.89,199.96c0,-0.85 -0.68,-1.54 -1.52,-1.54h-15.16c-0.84,0 -1.52,0.69 -1.52,1.54c0,0.85 0.68,1.54 1.52,1.54h15.16c0.84,0 1.52,-0.69 1.52,-1.54z" />
+		</g>
+		<g id="Hail Night">
+			<path id="hail" class="shp62" d="M926.79,215.85c-2.7,0 -4.88,2.2 -4.88,4.92c0,2.72 2.19,4.92 4.88,4.92c2.7,0 4.88,-2.2 4.88,-4.92c0,-2.72 -2.19,-4.92 -4.88,-4.92zM955,215.85c-2.7,0 -4.88,2.2 -4.88,4.92c0,2.72 2.19,4.92 4.88,4.92c2.7,0 4.88,-2.2 4.88,-4.92c0,-2.72 -2.19,-4.92 -4.88,-4.92zM941.38,222.97c-2.7,0 -4.88,2.2 -4.88,4.92c0,2.72 2.19,4.92 4.88,4.92c2.7,0 4.88,-2.2 4.88,-4.92c0,-2.72 -2.19,-4.92 -4.88,-4.92z" />
+			<path id="moon-small" class="shp63" d="M978.84,181.28c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-1.21,0.35 -2.43,0.52 -3.64,0.52c-7.28,0 -13.2,-5.92 -13.2,-13.2c0,-1.21 0.18,-2.44 0.52,-3.64c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-6.28,1.8 -10.67,7.63 -10.67,14.16c0,8.13 6.61,14.74 14.74,14.74c6.53,0 12.36,-4.39 14.16,-10.67z" />
+			<path id="cloud-large-night" class="shp64" d="M957.24,207.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.96,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small" class="shp3" d="M971.18,207.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+		</g>
+		<g id="Hail">
+			<path id="hail" class="shp65" d="M168.79,366.85c-2.7,0 -4.88,2.2 -4.88,4.92c0,2.72 2.19,4.92 4.88,4.92c2.7,0 4.88,-2.2 4.88,-4.92c0,-2.72 -2.19,-4.92 -4.88,-4.92zM197,366.85c-2.7,0 -4.88,2.2 -4.88,4.92c0,2.72 2.19,4.92 4.88,4.92c2.7,0 4.88,-2.2 4.88,-4.92c0,-2.72 -2.19,-4.92 -4.88,-4.92zM183.38,373.97c-2.7,0 -4.88,2.2 -4.88,4.92c0,2.72 2.19,4.92 4.88,4.92c2.7,0 4.88,-2.2 4.88,-4.92c0,-2.72 -2.19,-4.92 -4.88,-4.92z" />
+			<path id="cloud-large" class="shp3" d="M199.24,357.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.96,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small-dark" class="shp66" d="M213.18,357.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+		</g>
+		<g id="Fog Night">
+			<path id="moon-small" class="shp67" d="M675.84,19.28c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-1.21,0.35 -2.43,0.52 -3.64,0.52c-7.28,0 -13.2,-5.92 -13.2,-13.2c0,-1.21 0.18,-2.44 0.52,-3.64c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-6.28,1.8 -10.67,7.63 -10.67,14.16c0,8.13 6.61,14.74 14.74,14.74c6.53,0 12.36,-4.39 14.16,-10.67z" />
+			<path id="cloud-large-night" class="shp68" d="M653.24,44.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small" class="shp3" d="M667.18,44.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="fog" class="shp69" d="M630.05,54.5c0,-0.83 -0.68,-1.5 -1.52,-1.5h-10.11c-0.84,0 -1.52,0.67 -1.52,1.5c0,0.83 0.68,1.5 1.52,1.5h10.11c0.84,0 1.52,-0.67 1.52,-1.5zM651.78,54.5c0,-0.83 -0.68,-1.5 -1.52,-1.5h-15.16c-0.84,0 -1.52,0.67 -1.52,1.5c0,0.83 0.68,1.5 1.52,1.5h15.16c0.84,0 1.52,-0.67 1.52,-1.5zM640.16,62.5c0,-0.83 -0.68,-1.5 -1.52,-1.5h-20.22c-0.84,0 -1.52,0.67 -1.52,1.5c0,0.83 0.68,1.5 1.52,1.5h20.22c0.84,0 1.52,-0.67 1.52,-1.5zM661.89,62.5c0,-0.83 -0.68,-1.5 -1.52,-1.5h-15.16c-0.84,0 -1.52,0.67 -1.52,1.5c0,0.83 0.68,1.5 1.52,1.5h15.16c0.84,0 1.52,-0.67 1.52,-1.5z" />
+		</g>
+		<g id="Fog">
+			<path id="cloud-large" class="shp3" d="M502.24,507.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small-dark" class="shp70" d="M516.18,507.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="fog" class="shp71" d="M478.05,516.5c0,-0.83 -0.68,-1.5 -1.52,-1.5h-10.11c-0.84,0 -1.52,0.67 -1.52,1.5c0,0.83 0.68,1.5 1.52,1.5h10.11c0.84,0 1.52,-0.67 1.52,-1.5zM499.78,516.5c0,-0.83 -0.68,-1.5 -1.52,-1.5h-15.16c-0.84,0 -1.52,0.67 -1.52,1.5c0,0.83 0.68,1.5 1.52,1.5h15.16c0.84,0 1.52,-0.67 1.52,-1.5zM488.16,524.5c0,-0.83 -0.68,-1.5 -1.52,-1.5h-20.22c-0.84,0 -1.52,0.67 -1.52,1.5c0,0.83 0.68,1.5 1.52,1.5h20.22c0.84,0 1.52,-0.67 1.52,-1.5zM509.89,524.5c0,-0.83 -0.68,-1.5 -1.52,-1.5h-15.16c-0.84,0 -1.52,0.67 -1.52,1.5c0,0.83 0.68,1.5 1.52,1.5h15.16c0.84,0 1.52,-0.67 1.52,-1.5z" />
+		</g>
+		<g id="Dust">
+			<path id="sun" class="shp72" d="M175.5,469c-11.32,0 -20.5,9.18 -20.5,20.5c0,11.32 9.18,20.5 20.5,20.5c11.32,0 20.5,-9.18 20.5,-20.5c0,-11.32 -9.18,-20.5 -20.5,-20.5z" />
+			<path id="dust" class="shp3" d="M186,487c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2zM196,487c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2zM206,487c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2zM216,487c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2zM196,501c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2zM206,501c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2zM181,494c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2zM191,494c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2zM201,494c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2zM211,494c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2z" />
+		</g>
+		<g id="Drizzle Night">
+			<path id="moon-small" class="shp73" d="M68.84,482.28c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-1.21,0.35 -2.43,0.52 -3.64,0.52c-7.28,0 -13.2,-5.92 -13.2,-13.2c0,-1.21 0.18,-2.44 0.52,-3.64c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-6.28,1.8 -10.67,7.63 -10.67,14.16c0,8.13 6.61,14.74 14.74,14.74c6.53,0 12.36,-4.39 14.16,-10.67z" />
+			<path id="cloud-large-night" class="shp74" d="M47.24,507.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small" class="shp3" d="M61.18,507.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="rain-05" class="shp75" d="M15.01,523.76l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.19,-0.22 -2.75,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1,0.26c0.7,0 1.37,-0.35 1.75,-0.98zM31.23,523.76l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.19,-0.22 -2.75,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1,0.26c0.7,0 1.37,-0.35 1.75,-0.98zM47.45,523.76l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.19,-0.22 -2.75,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1,0.26c0.7,0 1.37,-0.35 1.75,-0.98zM20.04,530.76l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.19,-0.22 -2.75,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1,0.26c0.7,0 1.37,-0.35 1.75,-0.98zM36.77,530.76l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.19,-0.22 -2.75,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1,0.26c0.7,0 1.37,-0.35 1.75,-0.98zM53.49,530.76l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.19,-0.22 -2.75,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1,0.26c0.7,0 1.37,-0.35 1.75,-0.98z" />
+		</g>
+		<g id="Drizzle">
+			<path id="cloud-large" class="shp3" d="M48.24,44.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small-dark" class="shp76" d="M62.18,44.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="rain-05" class="shp77" d="M13.01,60.76l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.19,-0.22 -2.75,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1,0.26c0.7,0 1.37,-0.35 1.75,-0.98zM29.23,60.76l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.19,-0.22 -2.75,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1,0.26c0.7,0 1.37,-0.35 1.75,-0.98zM45.45,60.76l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.19,-0.22 -2.75,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1,0.26c0.7,0 1.37,-0.35 1.75,-0.98zM18.04,67.76l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.19,-0.22 -2.75,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1,0.26c0.7,0 1.37,-0.35 1.75,-0.98zM34.77,67.76l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.19,-0.22 -2.75,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1,0.26c0.7,0 1.37,-0.35 1.75,-0.98zM51.49,67.76l2.91,-4.87c0.56,-0.93 0.23,-2.12 -0.74,-2.66c-0.97,-0.54 -2.19,-0.22 -2.75,0.71l-2.91,4.87c-0.56,0.93 -0.23,2.12 0.74,2.66c0.32,0.18 0.66,0.26 1,0.26c0.7,0 1.37,-0.35 1.75,-0.98z" />
+		</g>
+		<g id="Clear Night">
+			<path id="moon" class="shp78" d="M512.8,203.03c0.12,-0.43 0,-0.89 -0.31,-1.2c-0.31,-0.31 -0.77,-0.43 -1.2,-0.31c-1.91,0.55 -3.86,0.83 -5.78,0.83c-11.55,0 -20.94,-9.39 -20.94,-20.94c0,-1.92 0.28,-3.87 0.83,-5.78c0.12,-0.43 0,-0.89 -0.31,-1.2c-0.31,-0.31 -0.77,-0.43 -1.2,-0.31c-9.97,2.86 -16.93,12.1 -16.93,22.47c0,12.9 10.49,23.39 23.39,23.39c10.37,0 19.61,-6.96 22.47,-16.93z" />
+			<path id="star-01" class="shp79" d="M499.73,170.92c1.04,-0.28 1.04,-0.75 0,-1.03c-1.04,-0.28 -2.12,-1.37 -2.41,-2.41c-0.28,-1.04 -0.75,-1.04 -1.03,0c-0.28,1.04 -1.37,2.12 -2.41,2.41c-1.04,0.28 -1.04,0.75 0,1.03c1.04,0.28 2.12,1.37 2.41,2.41c0.28,1.04 0.75,1.04 1.03,0c0.28,-1.04 1.37,-2.12 2.41,-2.41z" />
+			<path id="star-02" class="shp80" d="M509.39,185.76c1.58,-0.43 1.58,-1.13 0,-1.56c-1.58,-0.43 -3.22,-2.07 -3.65,-3.65c-0.43,-1.58 -1.13,-1.58 -1.56,0c-0.43,1.58 -2.07,3.22 -3.65,3.65c-1.58,0.43 -1.58,1.13 0,1.56c1.58,0.43 3.22,2.07 3.65,3.65c0.43,1.58 1.13,1.58 1.56,0c0.43,-1.58 2.07,-3.22 3.65,-3.65z" />
+		</g>
+		<g id="Blizzard Night">
+			<path id="blizzard" class="shp81" d="M1260.23,53.64c-2.75,0 -4.97,2.23 -4.97,4.97c0,2.75 2.23,4.97 4.97,4.97c2.75,0 4.97,-2.23 4.97,-4.97c0,-2.75 -2.23,-4.97 -4.97,-4.97z" />
+			<path id="moon-small" class="shp82" d="M1281.84,19.28c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-1.21,0.35 -2.43,0.52 -3.64,0.52c-7.28,0 -13.2,-5.92 -13.2,-13.2c0,-1.21 0.18,-2.44 0.52,-3.64c0.08,-0.27 0,-0.56 -0.2,-0.76c-0.2,-0.2 -0.49,-0.27 -0.76,-0.2c-6.28,1.8 -10.67,7.63 -10.67,14.16c0,8.13 6.61,14.74 14.74,14.74c6.53,0 12.36,-4.39 14.16,-10.67z" />
+			<path id="cloud-large-night" class="shp83" d="M1260.24,45.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.96,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small" class="shp3" d="M1274.18,45.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="snow-04" class="shp84" d="M1228,54.92c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1238,54.92c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1248,54.92c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1228,70.99c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1238,70.99c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1233,63.1c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM1243,63.1c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97z" />
+		</g>
+		<g id="Blizzard">
+			<path id="blizzard" class="shp85" d="M803.23,365.64c-2.75,0 -4.97,2.23 -4.97,4.97c0,2.75 2.23,4.97 4.97,4.97c2.75,0 4.97,-2.23 4.97,-4.97c0,-2.75 -2.23,-4.97 -4.97,-4.97z" />
+			<path id="cloud-large" class="shp3" d="M806.24,357.96c5.92,0 10.72,-4.72 10.72,-10.54c0,-5.82 -4.8,-10.54 -10.72,-10.54c-0.04,0 -0.07,0.01 -0.11,0.01c-0.95,-8.41 -8.2,-14.94 -17.01,-14.94c-6.95,0 -12.94,4.08 -15.62,9.93c-0.08,0 -0.17,-0.01 -0.25,-0.01c-7.33,0 -13.27,5.84 -13.27,13.05c0,7.21 5.94,13.05 13.27,13.05" />
+			<path id="cloud-small-dark" class="shp86" d="M820.18,357.99c3.74,0 6.77,-3.01 6.77,-6.73c0,-3.72 -3.03,-6.73 -6.77,-6.73c-0.02,0 -0.05,0 -0.07,0c-0.6,-5.37 -5.18,-9.54 -10.74,-9.54c-4.39,0 -8.17,2.6 -9.86,6.34c-0.05,0 -0.11,0 -0.16,0c-4.63,0 -8.38,3.73 -8.38,8.33c0,4.6 3.75,8.33 8.38,8.33" />
+			<path id="snow-04" class="shp87" d="M771,366.92c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM781,366.92c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM791,366.92c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM771,382.99c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM781,382.99c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM776,375.1c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97zM786,375.1c-1.1,0 -2,0.88 -2,1.97c0,1.09 0.9,1.97 2,1.97c1.1,0 2,-0.88 2,-1.97c0,-1.09 -0.9,-1.97 -2,-1.97z" />
+		</g>
+		<g id="Breezy Snow">
+			<path id="breezy" class="shp88" d="M209.39,199.88c0,-2.81 -2.29,-5.1 -5.11,-5.1c-0.02,0 -0.04,0.01 -0.06,0.01c-0.02,0 -0.04,-0.01 -0.06,-0.01h-33.85c-0.88,0 -1.59,0.71 -1.59,1.58c0,0.87 0.71,1.58 1.59,1.58h29.26c-0.25,0.6 -0.39,1.25 -0.39,1.93c0,2.81 2.29,5.1 5.11,5.1c2.82,0 5.11,-2.28 5.11,-5.1zM219.97,191.13c0,-2.81 -2.29,-5.1 -5.11,-5.1c-0.02,0 -0.04,0.01 -0.06,0.01c-0.02,0 -0.04,-0.01 -0.06,-0.01h-58.19c-0.88,0 -1.59,0.71 -1.59,1.58c0,0.87 0.71,1.58 1.59,1.58h53.59c-0.25,0.6 -0.39,1.25 -0.39,1.93c0,2.81 2.29,5.1 5.11,5.1c2.82,0 5.11,-2.28 5.11,-5.1zM204.28,170.95c-2.82,0 -5.11,2.28 -5.11,5.1c0,0.68 0.14,1.34 0.39,1.93h-18.68c-0.88,0 -1.59,0.71 -1.59,1.58c0,0.87 0.71,1.58 1.59,1.58h23.28c0.02,0 0.04,-0.01 0.06,-0.01c0.02,0 0.04,0.01 0.06,0.01c2.82,0 5.11,-2.28 5.11,-5.1c0,-2.81 -2.29,-5.1 -5.11,-5.1z" />
+			<path id="snow-02" class="shp89" d="M155,204c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2M165,204c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2M175,204c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2M185,204c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2M160,211c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2zM170,211c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2zM180,211c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2c1.1,0 2,-0.9 2,-2c0,-1.1 -0.9,-2 -2,-2zM162,199c0,-1.1 -0.9,-2 -2,-2c-1.1,0 -2,0.9 -2,2c0,1.1 0.9,2 2,2M160,201c1.1,0 2,-0.9 2,-2" />
+		</g>
+		<g id="Breezy">
+			<path id="breezy" class="shp90" d="M967.39,354.88c0,-2.81 -2.29,-5.1 -5.11,-5.1c-0.02,0 -0.04,0.01 -0.06,0.01c-0.02,0 -0.04,-0.01 -0.06,-0.01h-33.85c-0.88,0 -1.59,0.71 -1.59,1.58c0,0.87 0.71,1.58 1.59,1.58h29.26c-0.25,0.6 -0.39,1.25 -0.39,1.93c0,2.81 2.29,5.1 5.11,5.1c2.82,0 5.11,-2.28 5.11,-5.1zM977.97,346.13c0,-2.81 -2.29,-5.1 -5.11,-5.1c-0.02,0 -0.04,0.01 -0.06,0.01c-0.02,0 -0.04,-0.01 -0.06,-0.01h-58.19c-0.88,0 -1.59,0.71 -1.59,1.58c0,0.87 0.71,1.58 1.59,1.58h53.59c-0.25,0.6 -0.39,1.25 -0.39,1.93c0,2.81 2.29,5.1 5.11,5.1c2.82,0 5.11,-2.28 5.11,-5.1zM962.28,325.95c-2.82,0 -5.11,2.28 -5.11,5.1c0,0.68 0.14,1.34 0.39,1.93h-18.68c-0.88,0 -1.59,0.71 -1.59,1.58c0,0.87 0.71,1.58 1.59,1.58h23.28c0.02,0 0.04,-0.01 0.06,-0.01c0.02,0 0.04,0.01 0.06,0.01c2.82,0 5.11,-2.28 5.11,-5.1c0,-2.81 -2.29,-5.1 -5.11,-5.1z" />
+		</g>
+</svg>

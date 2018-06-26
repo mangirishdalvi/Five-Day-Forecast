@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 41" width="42" height="41">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="0.999" y1="40.996" x2="41.995" y2="0">
+			<stop offset="0" stop-color="#ffbc27"  />
+			<stop offset="1" stop-color="#fde252"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+	</style>
+	<g id="Mostly Sunny">
+		<path id="sun" class="shp0" d="M21.5,0c-11.32,0 -20.5,9.18 -20.5,20.5c0,11.32 9.18,20.5 20.5,20.5c11.32,0 20.5,-9.18 20.5,-20.5c0,-11.32 -9.18,-20.5 -20.5,-20.5z" />
+	</g>
+</svg>
