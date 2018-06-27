@@ -467,7 +467,7 @@
 	<view id="breezy-snow" viewBox="151 160 70 70"/>
 	<view id="rain" viewBox="303 165 70 70"/>
 	<view id="clear-night" viewBox="455 160 70 70"/> 
-	<view id="mostly-cloudy" viewBox="606 158 70 70"/>
+	<view id="cloudy" viewBox="606 158 70 70"/>
 	<view id="rain-night" viewBox="759 165 70 70"/>
 	<view id="hail-night" viewBox="910 165 70 70"/>
 	<view id="haze" viewBox="1061 160 70 70"/>
@@ -481,7 +481,7 @@
 	<view id="clear-day" viewBox="606 310 70 70"/>
 	<view id="blizzard" viewBox="759 317 70 70"/>
 	<view id="wind" viewBox="910 305 70 70"/>
-	<view id="severe-thunderstorm" viewBox="1061 315 70 70"/>
+	<view id="thunderstorm" viewBox="1061 315 70 70"/>
 	<view id="cloudy-night" viewBox="1212 305 70 70"/>
 	<!-- row3 end -->
 	<!-- row4 start -->
