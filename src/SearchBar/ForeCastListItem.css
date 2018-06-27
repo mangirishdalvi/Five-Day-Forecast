@@ -42,6 +42,7 @@
 	flex-direction: column;
 	font-family: Helvetica;
 	font-size: .85rem;
+	width: 46px;
 }
 
 #current-icon-daily{
