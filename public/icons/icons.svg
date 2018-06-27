@@ -457,20 +457,20 @@
 	<view id="mix-rain" viewBox="303 0 70 70"/>
 	<view id="sleet" viewBox="455 0 70 70"/>
 	<view id="fog-night" viewBox="606 0 70 70"/>
-	<view id="partly-cloudy-night" viewBox="759 0 70 70"/>
+	<view id="partly-cloudy-night" viewBox="759 -6 70 70"/>
 	<view id="severe-thunderstorm-night" viewBox="910 0 70 70"/>
 	<view id="heavy-rain" viewBox="1061 0 70 70"/>
 	<view id="blizzard-night" viewBox="1212 0 70 70"/>
 	<!-- row1 end -->
 	<!-- row2 start -->
 	<view id="scattered-thunderstorm" viewBox="0 165 70 70"/>
-	<view id="breezy-snow" viewBox="151 165 70 70"/>
+	<view id="breezy-snow" viewBox="151 160 70 70"/>
 	<view id="rain" viewBox="303 165 70 70"/>
-	<view id="clear-night" viewBox="455 165 70 70"/> 
-	<view id="mostly-cloudy" viewBox="606 165 70 70"/>
+	<view id="clear-night" viewBox="455 160 70 70"/> 
+	<view id="mostly-cloudy" viewBox="606 158 70 70"/>
 	<view id="rain-night" viewBox="759 165 70 70"/>
 	<view id="hail-night" viewBox="910 165 70 70"/>
-	<view id="haze" viewBox="1061 165 70 70"/>
+	<view id="haze" viewBox="1061 160 70 70"/>
 	<view id="sleet-night" viewBox="1212 165 70 70"/>
 	<!-- row2 end -->
 	<!-- row3 start -->
@@ -480,17 +480,17 @@
 	<view id="partly-cloudy" viewBox="455 315 70 70"/> 
 	<view id="clear-day" viewBox="606 310 70 70"/>
 	<view id="blizzard" viewBox="759 317 70 70"/>
-	<view id="wind" viewBox="910 310 70 70"/>
+	<view id="wind" viewBox="910 305 70 70"/>
 	<view id="severe-thunderstorm" viewBox="1061 315 70 70"/>
-	<view id="cloudy-night" viewBox="1212 310 70 70"/>
+	<view id="cloudy-night" viewBox="1212 305 70 70"/>
 	<!-- row3 end -->
 	<!-- row4 start -->
 	<view id="light-rain-night" viewBox="0 463 70 70"/>
-	<view id="dust" viewBox="151 457 70 70"/>
+	<view id="dust" viewBox="151 455 70 70"/>
 	<view id="heavy-rain-night" viewBox="303 463 70 70"/>
 	<view id="fog" viewBox="455 463 70 70"/> 
 	<view id="scattered-showers" viewBox="606 463 70 70"/>
-	<view id="smoke" viewBox="759 463 70 70"/>
+	<view id="smoke" viewBox="759 457 70 70"/>
 	<view id="scattered-thunderstorm-night" viewBox="910 463 70 70"/>
 	<view id="snow" viewBox="1061 463 70 70"/>
 	<view id="scattered-showers-night" viewBox="1212 463 70 70"/>
