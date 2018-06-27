@@ -14,9 +14,6 @@ const DEFAULT_LOCATION={
 class Menu extends Component{
 	render()
 	{
-		if(!this.props.forecast)
-			return null;
-
 		let currentClasses=['select-button'];
 		let dailyClasses=['select-button'];
 
