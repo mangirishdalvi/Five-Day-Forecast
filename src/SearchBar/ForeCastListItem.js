@@ -1,12 +1,10 @@
 import React from 'react';
 import './ForeCastListItem.css';
-import {getDate,iconMap as iMap} from '../utils/utils';
+import {getDate} from '../utils/utils';
 
 function ForecastListItem(props){
 
 	let {result} = props;
-		let iconMap=iMap();
-
 		return (
 				<tr>
 					<td className="cell1 table-cell">
@@ -15,8 +13,7 @@ function ForecastListItem(props){
 								<span><b>{result.day}</b></span>
 								<span>{getDate(result.time)}</span>
 							</div>
-							{/* <i className={iconMap[result.icon]}></i>							 */}
-							<img id="current-icon-daily" src={`icons/icons.svg#${result.icon}`} /> 
+							<img id="current-icon-daily" src={`icons/icons.svg#${result.icon}`} alt="X"/> 
 						</div>
 					</td>
 					<td className="forecast-summary table-cell ">{result.summary}</td>

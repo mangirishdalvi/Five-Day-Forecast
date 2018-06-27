@@ -1,6 +1,6 @@
 import React from 'react';
 import './Current.css';
-import {FtoC,getTimezone,iconMap as iMap} from '../utils/utils';
+import {FtoC,getTimezone} from '../utils/utils';
 
 function getWindDirection(windBearing)
 {
@@ -28,7 +28,6 @@ function getWindDirection(windBearing)
 
 function Current(props)
 {
-	const iconMap=iMap();
 		const {forecast}=props;
 		const currentTemperature=(props.unit==='F')?forecast.temperature
 												   :FtoC(forecast.temperature);
@@ -45,7 +44,7 @@ function Current(props)
 						<span id="place">{props.place}</span>
 						<span id="time">{getTimezone(forecast.time,forecast.timezone)}</span>
 					</div>
-					<img id="current-icon" src={`icons/icons.svg#${forecast.icon}`} />
+					<img id="current-icon" src={`icons/icons.svg#${forecast.icon}`} alt="X"/>
 					<div id="current-weather">
 						<div className="current-temp">
 							<span id="current-temp">{Math.round(currentTemperature)}&deg;{props.unit}</span>
