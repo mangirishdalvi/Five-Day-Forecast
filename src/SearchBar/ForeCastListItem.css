@@ -49,3 +49,8 @@
 	font-family: Helvetica;
 	font-size: .85rem;
 }
+
+#current-icon-daily{
+	height: 30px;
+	width: 30px;
+}

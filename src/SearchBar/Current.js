@@ -45,8 +45,8 @@ function Current(props)
 						<span id="place">{props.place}</span>
 						<span id="time">{getTimezone(forecast.time,forecast.timezone)}</span>
 					</div>
+					<img id="current-icon" src={`icons/icons.svg#${forecast.icon}`} />
 					<div id="current-weather">
-						<span className="current-icon"><i className={`${iconMap[forecast.icon]} wi-fw`}></i></span>
 						<div className="current-temp">
 							<span id="current-temp">{Math.round(currentTemperature)}&deg;{props.unit}</span>
 							<span id="realfeel">Feels like {Math.round(apparentTemperature)}&deg;{props.unit}</span>
@@ -61,7 +61,7 @@ function Current(props)
 						<span id="wind-speed">{`${forecast.windSpeed} mph`}</span>
 					</div>
 					<div className="misc-info">
-						<span id="humidity">{`Humidity: ${forecast.humidity*100}%`}</span>
+						<span id="humidity">{`Humidity: ${Math.round(forecast.humidity*100)}%`}</span>
 						<span id="dew-point">{`Dew Point: ${Math.round(dewPoint)}`}&deg;{props.unit}</span>
 						<span id="visibility">{`Visibility: ${forecast.visibility} miles`}</span>
 						<span id="uv-index">{`UV Index: ${forecast.uvIndex}`}</span>

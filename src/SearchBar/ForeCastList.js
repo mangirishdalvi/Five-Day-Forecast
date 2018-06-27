@@ -52,7 +52,7 @@ function ForeCastList(props)
 					{getHeaders()}
 					</tr>
 			   		</thead>
-			   		<tbody>
+			   		<tbody id="table-body">
 			   		{elements}
 			   		</tbody>
 			   	</table>

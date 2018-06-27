@@ -15,7 +15,8 @@ function ForecastListItem(props){
 								<span><b>{result.day}</b></span>
 								<span>{getDate(result.time)}</span>
 							</div>
-							<i className={iconMap[result.icon]}></i>							
+							{/* <i className={iconMap[result.icon]}></i>							 */}
+							<img id="current-icon-daily" src={`icons/icons.svg#${result.icon}`} /> 
 						</div>
 					</td>
 					<td className="forecast-summary table-cell ">{result.summary}</td>

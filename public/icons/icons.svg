@@ -477,7 +477,7 @@
 	<view id="snow-night" viewBox="0 310 70 70"/>
 	<view id="hail" viewBox="151 315 70 70"/>
 	<view id="tornado" viewBox="303 315 70 70"/>
-	<view id="partly-cloudy" viewBox="455 315 70 70"/> 
+	<view id="partly-cloudy-day" viewBox="455 315 70 70"/> 
 	<view id="clear-day" viewBox="606 310 70 70"/>
 	<view id="blizzard" viewBox="759 317 70 70"/>
 	<view id="wind" viewBox="910 305 70 70"/>
