@@ -8,17 +8,10 @@ function getHeaders()
 {
 	let headers=["DAY", 'DESCRIPTION',"HIGH/LOW", 'PRECIPITATION'];
 	return headers.map((header,index)=>{
-		if(header!=='HIGH/LOW')
 		return (
 			<th key={shortid.generate()} className={`forecast-headers table-cell col${index}`}>
 				{header} 
 			</th>
-			);
-		else
-		return (
-			  <th key={shortid.generate()} className={`forecast-headers table-cell col${index}`} >
-				  {header}
-			  </th>
 		);
 	});
 }
