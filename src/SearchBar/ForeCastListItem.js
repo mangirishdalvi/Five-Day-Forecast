@@ -1,6 +1,7 @@
 import React from 'react';
 import './ForeCastListItem.css';
 import {getDate} from '../utils/utils';
+import icon from '../icons/icons.svg';
 
 function ForecastListItem(props){
 
@@ -13,7 +14,7 @@ function ForecastListItem(props){
 								<span><b>{result.day}</b></span>
 								<span>{getDate(result.time)}</span>
 							</div>
-							<img id="current-icon-daily" src={`icons/icons.svg#${result.icon}`} alt="X"/> 
+							<img id="current-icon-daily" src={`${icon}#${result.icon}`} alt="X"/> 
 						</div>
 					</td>
 					<td className="forecast-summary table-cell ">{result.summary}</td>
