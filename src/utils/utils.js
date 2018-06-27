@@ -32,20 +32,4 @@ function getTimezone(timestamp,timezone)
 	return a.format('h:mm A');
 }
 
-export function iconMap()
-{
-	let res={}
-	res['clear-day']='wi wi-day-sunny';
-	res['clear-night']='wi wi-night-clear';
-	res['rain']='wi wi-rain';
-	res['snow']='wi wi-snow';
-	res['sleet']='wi wi-sleet';
-	res['wind']='wi wi-windy';
-	res['fog']='wi wi-fog';
-	res['cloudy']='wi wi-cloudy';
-	res['partly-cloudy-day']='wi wi-day-cloudy';
-	res["partly-cloudy-night"]='wi wi-night-alt-cloudy';
-	return res;
-}
-
 export {getDay,getDate,FtoC,CtoF,getTimezone};
