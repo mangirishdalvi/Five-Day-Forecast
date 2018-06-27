@@ -71,8 +71,9 @@
 	justify-content: space-evenly;
 	align-items: flex-start;
 	padding:5px 20px;
+	font-family: sans-serif;
 	height: 65%;
-	color: #999;
+	color:dimgray;
 }
 
 #wind-summary,#wind-speed{
